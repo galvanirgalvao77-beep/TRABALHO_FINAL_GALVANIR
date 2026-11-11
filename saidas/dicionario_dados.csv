@@ -1,0 +1,21 @@
+﻿coluna,tipo,percentual_faltantes,exemplo_valor
+pedido_id,int64,0.0,500000
+data_hora,datetime64[ns],0.0,2024-01-01 11:21:00
+cidade,object,0.0,São Paulo
+bairro,object,0.0,Tatuapé
+restaurante_id,object,0.0,R912
+tipo_cozinha,object,0.0,Hambúrguer
+plataforma,object,0.0,Android
+forma_pagamento,object,0.0,Pix
+cupom,bool,0.0,False
+cliente_novo,bool,0.0,False
+chuva,bool,0.0,False
+distancia_km,float64,4.0,2.68
+tempo_entrega_min,float64,0.41,28.0
+valor_pedido,float64,0.0,44.02
+taxa_entrega,float64,0.0,7.4
+avaliacao,float64,16.65,4.0
+data,object,0.0,2024-01-01
+mes,int32,0.0,1
+hora,int32,0.0,11
+dia_semana,category,0.0,Seg
